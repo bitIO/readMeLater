@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "commitlint",
+    "pinia",
+    "rushstack",
+    "vetur",
+    "vite",
+    "vitejs",
+    "vitest",
+    "vuejs"
+  ],
+  "ignorePaths": ["./node_modules/**", ".git", ".vscode", "cSpell.json"]
+}
